@@ -1,0 +1,123 @@
+canvas{
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+.flex-container{
+  display: flex;
+}
+
+body{
+  background-color: #006699;
+}
+
+#chat-box{
+  margin-top: 1%;
+  margin-left: 15%;
+  margin-right: auto;
+  margin-bottom: auto;
+  background-color: white;
+}
+
+#chat-content{
+  width: 600px;
+  height: 600px;
+
+  overflow: scroll;
+}
+
+#message-input-field{
+  width: 90%;
+}
+
+#items{
+  margin-left: 5%;
+  margin-bottom: 1px;
+}
+
+#big{
+  background-color: white;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#medium{
+  background-color: white;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#small{
+  background-color: white;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#colors{
+  margin-left: 5%;
+}
+
+#red{
+  background-color: red;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#green{
+  background-color: green;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#blue{
+  background-color: blue;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#yellow{
+  background-color: yellow;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#purple{
+  background-color: purple;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#black{
+  background-color: black;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#eraser{
+  background-color: white;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#clear{
+  background-color: white;
+  border-color: white;
+  padding: 10px 18px;
+  display: inline-block;
+}
+
+#name-table{
+  margin-left: 5%;
+}
